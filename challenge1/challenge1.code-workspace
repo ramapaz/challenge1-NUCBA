@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "..\\assets"
+		},
+		{
+			"name": "challenge1",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "challenge1",
+		"liveServer.settings.port": 5501
+	}
+}
